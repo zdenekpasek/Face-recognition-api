@@ -17,7 +17,7 @@ App url: https://facerecog-application.herokuapp.com/
 - express (server)
 - clarifai-api (it returns probability scores on the likelihood that the image contains human faces and coordinate locations      of where those faces appear with a bounding box)
 - bcrypt (used for hashing passwords)
-- knex (js database)
+- knex (used for easier work with psql database)
 - relational database (PostgreSQL)
 
 ## Sign in page
